@@ -2,7 +2,7 @@
    <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
 </div>
 
-<h1 align="center">I'm Emcahell</h1>
+<h1 align="center">Hi i'm Emcahell</h1>
 <br><br>
 
 <!--
