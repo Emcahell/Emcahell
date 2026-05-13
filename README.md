@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 <p align="center" width=100%>
 
-   [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,astro,tailwind,md,svg,pnpm,git,github,vercel,vscode)](https://skillicons.dev)
+   [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,astro,tailwind,md,pnpm,git,github,vercel)](https://skillicons.dev)
  <!--  ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    &emsp;
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
