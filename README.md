@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi i'm Emcahell</h1>
 
-<h3 align="center">Frontend Developer</h3>
+<h3 align="center">Frontend Developer - Human First Powered AI - Linux Lover</h3>
 <br><br>
 
 <!--
